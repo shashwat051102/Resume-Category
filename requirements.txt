@@ -8,4 +8,6 @@ streamlit
 scikeras
 re
 docx
+seaborn
+matplotlib
 PyPDF2
