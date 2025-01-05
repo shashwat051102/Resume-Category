@@ -6,7 +6,6 @@ tensorboard
 matplotlib
 streamlit
 scikeras
-re
 docx
 seaborn
 matplotlib
