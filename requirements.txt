@@ -6,7 +6,7 @@ tensorboard
 matplotlib
 streamlit
 scikeras
-docx
+python-docx
 seaborn
 matplotlib
 PyPDF2
